@@ -108,6 +108,6 @@
     "**/agent-base": "5",
     "@types/express-serve-static-core": "4.17.30"
   },
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {}
 }
